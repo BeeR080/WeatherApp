@@ -1,10 +1,9 @@
 package com.example.weatherapp.business.model
 
 data class LocalNames(
-    val ar: String,
-    val en: String,
-    val fr: String,
-    val ko: String,
-    val ru: String,
-    val uk: String
+    val ascii: String,
+    val feature_name: String,
+    val en: String?,
+    val ru: String?
+
 )

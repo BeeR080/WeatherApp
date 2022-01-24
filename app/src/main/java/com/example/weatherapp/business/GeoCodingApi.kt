@@ -15,4 +15,12 @@ interface GeoCodingApi {
         @Query("appid") id: String = "3d51362ac38a4e3cefe42bb924f20573"
 
     ): Observable<List<GeoCodeModel>>
+
+    @GET("geo/1.0/direct")
+    fun getCityByName(
+        @Query("q") name: String,
+        @Query("limit") limit: String = "10",
+        @Query("appid") id: String = "3d51362ac38a4e3cefe42bb924f20573"
+
+    ): Observable<List<GeoCodeModel>>
 }

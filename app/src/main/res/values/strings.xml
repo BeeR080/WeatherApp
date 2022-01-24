@@ -2,4 +2,6 @@
     <string name="app_name">WeatherApp</string>
     <string name="min">min</string>
     <string name="max">max</string>
+    <string name="location">Location</string>
+    <string name="comma">, %1$s</string>
 </resources>

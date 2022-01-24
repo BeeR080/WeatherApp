@@ -2,8 +2,6 @@ package com.example.weatherapp.view.adapters
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
-import com.example.weatherapp.databinding.WeatherlistDealyMainBinding
-import com.example.weatherapp.databinding.WeatherlistHourlyMainBinding
 
 abstract class BaseAdapter<D>: RecyclerView.Adapter<BaseAdapter.BaseViewHolder>() {
 

@@ -3,7 +3,6 @@ package com.example.weatherapp.view.adapters
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.ImageView
-import com.example.weatherapp.R
 import com.example.weatherapp.business.model.DealyWeatherModel
 import com.example.weatherapp.databinding.WeatherlistDealyMainBinding
 import com.example.weatherapp.view.*
@@ -23,10 +22,10 @@ class MainDealyListAdapter: BaseAdapter<DealyWeatherModel>() {
     }
 
     inner class DealyViewHolder(binding: WeatherlistDealyMainBinding) : BaseViewHolder(binding.root){
-        val day:MaterialTextView = binding.weatherlistDealyDateTv
-        val condition:MaterialTextView = binding.weatherlistDealyCondititonTv
-        val maxTemperature:MaterialTextView = binding.weatherlistDealyMaxTempTv
-        val minTemperature:MaterialTextView = binding.weatherlistDealyMinTempTv
+        val day: MaterialTextView = binding.weatherlistDealyDateTv
+        val condition: MaterialTextView = binding.weatherlistDealyCondititonTv
+        val maxTemperature: MaterialTextView = binding.weatherlistDealyMaxTempTv
+        val minTemperature: MaterialTextView = binding.weatherlistDealyMinTempTv
         val iconCondition: ImageView = binding.weatherlistDealyConditionIcon
 
 

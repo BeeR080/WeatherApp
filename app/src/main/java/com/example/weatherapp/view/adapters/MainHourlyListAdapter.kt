@@ -1,18 +1,10 @@
 package com.example.weatherapp.view.adapters
-
-
 import android.view.LayoutInflater
-
-
 import android.view.ViewGroup
 import android.widget.ImageView
-import com.example.weatherapp.R
 import com.example.weatherapp.business.model.HourlyWeatherModel
-
 import com.example.weatherapp.databinding.WeatherlistHourlyMainBinding
 import com.example.weatherapp.view.*
-
-
 import com.google.android.material.textview.MaterialTextView
 
 

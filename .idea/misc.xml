@@ -6,6 +6,9 @@
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/bg_main_bottom_sheets.xml" value="0.22135416666666666" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/bg_main_bottom_sheets_swiper.xml" value="0.22135416666666666" />
+        <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/bg_menu_favorites_list.xml" value="0.3828125" />
+        <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/bg_menu_predications_list.xml" value="0.3828125" />
+        <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/city_item_favorite_selector.xml" value="0.3828125" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/ic_01d.xml" value="0.33796296296296297" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/ic_02d.xml" value="0.33796296296296297" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/ic_03d.xml" value="0.33796296296296297" />
@@ -19,9 +22,15 @@
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.22135416666666666" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/ic_launcher_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/ic_location.xml" value="0.3296296296296296" />
+        <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/ic_search.xml" value="0.3296296296296296" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/ic_sun.xml" value="0.33796296296296297" />
+        <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/item_city_list.xml" value="0.3828125" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/oblachko_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/drawable/slide_out_left.xml" value="0.3828125" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/layout/activity_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/layout/item_city_list.xml" value="0.36666666666666664" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/layout/weatherlist_dealy_main.xml" value="0.5" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/layout/weatherlist_hourly_main.xml" value="0.67" />
         <entry key="..\:/Anroid Studio Projects/WeatherApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
