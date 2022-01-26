@@ -81,11 +81,6 @@ class MainActivity : MvpAppCompatActivity(), MainView {
 
         mainPresenter.enable()
 
-        binding.btnMainMenu.setOnClickListener {
-            val intent = Intent(this, MenuActivity::class.java)
-            startActivity(intent)
-            overridePendingTransition(R.anim.slide_in_left, android.R.anim.fade_out)
-        }
 
         if (!intent.hasExtra(COORDINATES)) {
             checkGeoAvailability()
